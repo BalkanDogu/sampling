@@ -10,13 +10,46 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Belchin NAUMOV
 
 ```
 Please write your explanation here...
 
-```
+First Question :
 
+We can see from 2 codes belove they used random sample method. In the article mentioned 10 percent of people being infected. 
+We can see same rate in the code as ATTACK_RATE = 0.10. Sample Frame is the entire population that attended all events. 
+Simple size is the ATTACK_RATE so 10 percent of population.
+
+infected_indices = np.random.choice(ppl.index, size=int(len(ppl) * ATTACK_RATE), replace=False)
+ppl.loc[infected_indices, 'infected'] = True
+
+The article states that since we cannot trace all cases, only 20 percent of them can be traced, 
+so we do not know all the information about the infection.
+
+ppl.loc[ppl['infected'], 'traced'] = np.random.rand(sum(ppl['infected'])) < TRACE_SUCCESS
+
+
+Second Question :
+
+![picture2.png](./images/picture2.png)
+
+When we look at the graphs both in the article and in the Covid Tracing, we actually see the distribution in the 20 percent that can be tracked. 
+So I think both graphs show the same thing.
+
+Third Question :
+
+According to what he wrote in the article, he says that even if we do 50,000 tests, the infected rate remains at 20 percent. 
+Therefore, increasing the number does not change the infection rate.
+
+Fourth Question :
+
+Changes include adding np.random.seed(42) to enable random number generation between rinses. 
+This increases reproducibility by ensuring results are consistent across different runs.
+
+
+
+```
 
 ## Criteria
 
