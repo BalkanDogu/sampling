@@ -4,19 +4,45 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+  If you look at my 2nd assignment, you can see that my examples should be from different age groups. 
+  I think I can fill out the survey successfully if I have enough examples for each group. 
+  Sufficient number of people from each age group (e.g. 50 people for each age group) 
+  I think it is enough to represent the target audience.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+Talking about errors (Sampling errors, Non-sampling errors, coverage errors, coverage bias or measurement errors), 
+I don't think I would have such errors if I classified all my samples by age.
+
+Depending on the purpose of the survey, there are many different ways to define and assess quality
+Survey has to be relevant, and must be close to the true population quantitative, data and results must be accessible, 
+and common definitions and standards should be used when data comes from different sources.
+
+Questions;
+They must be simple and clear, avoid leading questions, think about open vs. closed questions, 
+and have no double negatives.
+
+In light of the above information, 
+I wouldn't change any of the first 5 questions of my survey, but;
+I wouldn't put any age limit for question 6,
+I would combine 7-8 questions into one question,
+It would be more descriptive to specify options for the 10th question.
+By implementing these changes, the survey could have been more inclusive, open, 
+and capable of capturing different musical preferences and experiences over time.
+
+https://github.com/BalkanDogu/sampling/blob/assignment-2/02_activities/assignments/a2_questionnaire_design_part_a.md
+   
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+   I do not believe that an observational survey would be successful. 
+   Because my survey is about people's experiences it is very difficult for me to see these experiences by observing. 
+   I can learn about people's current music tastes by observing them, 
+   but I need their experiences with music tastes that change over time.
     ```
 
 ## Why am I doing this assignment?
