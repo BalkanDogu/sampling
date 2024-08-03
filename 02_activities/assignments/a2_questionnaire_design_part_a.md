@@ -50,6 +50,20 @@ concert halls, social media groups and music clubs.
 
 * Sampling Units and Observational Units I think are almost the same groups.
 
+Sampling strategy 
+
+The sampling strategy I will be using is Stratified Random Sampling (SRS). Using a Stratified Random Sampling I would divide 
+the population into strata (subgroups) based on age groups (15-25, 25-40, 41-50, 51-60, 61+)  to ensure representation across 
+different age categories. Then, random sampling within each stratum I would be performed.
+
+Justification :
+
+-Using different data collection methods can help capture different music preferences by reaching a wider and more diverse audience.
+- A well-calculated sample size and appropriate sampling method increase the accuracy and precision of the survey results, reducing 
+sampling bias and error.
+- Stratified sampling ensures that different age groups are proportionally represented and allows for accurate analysis.
+
+
 ```
 
 Your 5-10 question survey:
