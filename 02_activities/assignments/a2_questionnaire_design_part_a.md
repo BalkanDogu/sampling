@@ -16,30 +16,111 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: "3"
 
 Describe the purpose of your survey:
 ```
 write your answer here...
+
+A survey to find out the class of music we listen to and the connection between music and age. 
+A study shows how music taste changes according to age. 
+Understand how musical preferences change with age.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
+
+My target population can be various age groups (15-25, 25-40, 41-50, 51-60, 61+), 
+for example all people between the ages of 15-60.
+Because people's musical tastes generally begin to develop during adolescence.
+
+Samplig Frame:
+
+- High schools and universities where I will meet with 15-25 age groups and get information from them.
+- Workplaces, concert venues, social media groups, and music club members where 
+I can talk to people in the 25-60 age group.
+- Parks, casinos, event areas for retirees and retirement homes for people over 60.
+
+Sampling Units :
+
+Every person I can talk to and get information from in workplaces, 
+concert halls, social media groups and music clubs.
+
+* Sampling Units and Observational Units I think are almost the same groups.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age group?
+
+   A) 15-25
+   B) 25-40 
+   C) 41-50 
+   D) 51-60 
+   E) 61+
+
+2. What are your top 3 favorite music genres?
+
+   A) Classical
+   B) Pop
+   C) Rock 
+   D) Jazz
+   E) Electronic
+   F) Country music
+   G) Heavy metal
+   H) Hip hop music
+
+3. How often do you listen to music?
+
+   A) Daily
+   B) Weekly
+   C) Monthly
+
+4. Do you have any favorite artists or bands?
+
+write your answer here...
+
+
+
+5. How do you discover new music?
+
+   A) Radio
+   B) Social media
+   C) Friends 
+   D) Other (please specify)
+
+6. if your age is over 25 please describe shortly how your music taste changes over time.
+(about music gender, artists did they change over time)
+
+write your answer here...
+
+
+
+7. In your experience, if you are over 40, What do you think, is there any connection between aging and musical taste?
+
+     Yes   ///    No
+
+8. If you are getting "Yes" please describe your changing music taste over time.
+
+write your answer here...
+
+
+
+9. If is not your age, what factors influence your music preferences the most?
+
+write your answer here...
+
+
+10. Do you feel that you get the same pleasure from listening to music now as you did when you were younger? 
+Or do you think that the old excitement is gone?
+
+write your answer here...
+
+
+Thank you for your patience....
 ```
 
 ## Rubric
